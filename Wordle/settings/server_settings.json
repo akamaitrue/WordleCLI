@@ -1,7 +1,0 @@
-{
-    "port": 62284,
-    "multicast_address": "224.0.0.1",
-    "multicast_port": 55555,
-    "next_word": 120,
-    "pool_size": 10
-}
