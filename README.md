@@ -11,7 +11,7 @@ TODO: rewrite it in LaTeX and remove redundant information\
 The main skills required for this project are: Java MultiThreading, Java Socket Programming, Unicast-Multicast-Broadcast
 
 ## How to use
-1. `git clone https://github.com/akamaitrue/Wordle.git`
+1. `git clone https://github.com/akamaitrue/WordleCLI.git`
 2. `cd Wordle`
 3. `javac -cp ./lib/gson-2.9.1.jar -d ./ @./settings/sources.txt`
 4. `java -jar --enable-preview ServerWordle.jar`
