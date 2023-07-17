@@ -1,0 +1,10 @@
+{
+    "username": "user",
+    "password": "password123!!",
+    "ip": "127.0.0.1",
+    "port": 62284,
+    "multicast_address": "224.0.0.1",
+    "multicast_port": 55555,
+    "max_login_retries": 3,
+    "timeout": 10000
+}
